@@ -1,2 +1,2 @@
 # learn-py-career-db
-For learnining puproses
+For learning puproses
